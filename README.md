@@ -1,12 +1,14 @@
-- 👋 Hi, I’m @abby-freakazoid
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# heya, I'm Abby 🐧
 
-<!---
-abby-freakazoid/abby-freakazoid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- inspired by GreenTeaVie -->
+```yaml
+languages i think are neat:
+  # java
+  - lisps
+  - python
+  - ruby
+  - rust
+  - shell
+```
+
+my sosh: [mastodon](https://ieji.de/@abby)
